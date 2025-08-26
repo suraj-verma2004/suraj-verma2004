@@ -67,7 +67,10 @@ I'm a Python and Web Developer with a passion for building efficient web applica
 ### 🌐 Connect with me
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-verma2004..."/>
-<br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-verma2004..."/>
+<a href="mailto:surajsoni3515@gmail.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="surajsoni3515@gmail.com" height="30" width="40" />
+</a>
+<a href="https://instagram.com/its_suraj_soni19" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_suraj_soni19" height="30" width="40" />
+</a>
 </p>
