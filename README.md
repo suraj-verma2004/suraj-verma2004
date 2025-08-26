@@ -66,11 +66,11 @@ I'm a Python and Web Developer with a passion for building efficient web applica
 
 ### 🌐 Connect with me
 
-<p align="center">
-<a href="mailto:surajsoni3515@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://instagram.com/its_suraj_soni19" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_suraj_soni19" height="30" width="40" />
-</a>
+<p align="left">
+  <a href="mailto:surajsoni315@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/its_suraj_soni19" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
