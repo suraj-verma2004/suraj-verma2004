@@ -57,9 +57,9 @@ I'm a Python and Web Developer with a passion for building efficient web applica
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&rank_icon=github" alt="Your GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-verma2004&show_icons=true&theme=dracula&rank_icon=github" alt="Your GitHub Stats"/>
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula" alt="Your Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-verma2004&layout=compact&theme=dracula" alt="Your Top Languages"/>
 </p>
 
 <br/>
